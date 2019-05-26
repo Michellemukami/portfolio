@@ -12,7 +12,7 @@ body{
 
 .media{
   display: flex;
-  flex direction:flex;
+  flex direction: flex;
 }
 
 h2{
@@ -24,4 +24,29 @@ h2{
   font-size: 0.9em ;
   font-family:fantasy;
   float: left;
+  color: white;
+}
+.like{ font-size: 2em;
+  font-family: serif;
+}
+.head{
+  text-align:left;
+  color: purple;
+  float: left;
+  text-overflow: clip;
+
+}
+.zero{
+  text-align: left;
+  float: left;
+  color: white;
+}
+
+}
+h4{
+  color: black;
+}
+.kami{
+  text-align: center;
+  margin-top: 1.3em;
 }
